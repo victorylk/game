@@ -1,0 +1,38 @@
+2016-10-04 18:15:29.148 [main] INFO  decoder.EchoServer -
+				启动
+2016-10-04 18:15:30.297 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x3d9deecf] REGISTERED
+2016-10-04 18:15:30.299 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x3d9deecf] BIND: 0.0.0.0/0.0.0.0:8008
+2016-10-04 18:15:30.303 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x3d9deecf, /0:0:0:0:0:0:0:0:8008] ACTIVE
+2016-10-04 18:15:40.600 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x3d9deecf, /0:0:0:0:0:0:0:0:8008] RECEIVED: [id: 0xb14dbec2, /127.0.0.1:50282 => /127.0.0.1:8008]
+2016-10-04 18:15:50.253 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x3d9deecf, /0:0:0:0:0:0:0:0:8008] RECEIVED: [id: 0x2a25ebd5, /127.0.0.1:50300 => /127.0.0.1:8008]
+2016-10-04 21:05:08.998 [main] INFO  decoder.EchoServer -
+				启动
+2016-10-04 21:05:10.016 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xb59f91b3] REGISTERED
+2016-10-04 21:05:10.019 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xb59f91b3] BIND: 0.0.0.0/0.0.0.0:8008
+2016-10-04 21:05:10.023 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xb59f91b3, /0:0:0:0:0:0:0:0:8008] ACTIVE
+2016-10-04 21:06:00.208 [main] INFO  decoder.EchoServer -
+				启动
+2016-10-04 21:06:01.218 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x20848a72] REGISTERED
+2016-10-04 21:06:01.220 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x20848a72] BIND: 0.0.0.0/0.0.0.0:8008
+2016-10-04 21:06:01.224 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x20848a72, /0:0:0:0:0:0:0:0:8008] ACTIVE
+2016-10-04 21:06:24.142 [main] INFO  decoder.EchoServer -
+				启动
+2016-10-04 21:06:25.156 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x142c9028] REGISTERED
+2016-10-04 21:06:25.159 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x142c9028] BIND: 0.0.0.0/0.0.0.0:8008
+2016-10-04 21:06:25.163 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x142c9028, /0:0:0:0:0:0:0:0:8008] ACTIVE
+2016-10-04 21:06:44.135 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x142c9028, /0:0:0:0:0:0:0:0:8008] RECEIVED: [id: 0xf8bea8b9, /127.0.0.1:53204 => /127.0.0.1:8008]

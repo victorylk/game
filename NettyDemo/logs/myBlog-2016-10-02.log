@@ -1,0 +1,62 @@
+2016-10-02 23:20:00.697 [main] INFO  decoder.EchoServer -
+				启动
+2016-10-02 23:20:01.506 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x39459f72] REGISTERED
+2016-10-02 23:20:01.509 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x39459f72] BIND: 0.0.0.0/0.0.0.0:8008
+2016-10-02 23:20:01.513 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x39459f72, /0:0:0:0:0:0:0:0:8008] ACTIVE
+2016-10-02 23:20:45.355 [main] INFO  decoder.EchoServer -
+				启动
+2016-10-02 23:20:46.062 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x1d753546] REGISTERED
+2016-10-02 23:20:46.063 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x1d753546] BIND: 0.0.0.0/0.0.0.0:8008
+2016-10-02 23:20:46.067 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x1d753546, /0:0:0:0:0:0:0:0:8008] ACTIVE
+2016-10-02 23:21:43.099 [main] INFO  decoder.EchoServer -
+				启动
+2016-10-02 23:21:43.820 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x94f8b4b8] REGISTERED
+2016-10-02 23:21:43.822 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x94f8b4b8] BIND: 0.0.0.0/0.0.0.0:8008
+2016-10-02 23:21:43.825 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x94f8b4b8, /0:0:0:0:0:0:0:0:8008] ACTIVE
+2016-10-02 23:21:47.486 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x94f8b4b8, /0:0:0:0:0:0:0:0:8008] RECEIVED: [id: 0x2e8d2423, /127.0.0.1:62944 => /127.0.0.1:8008]
+2016-10-02 23:23:19.146 [main] INFO  decoder.EchoServer -
+				启动
+2016-10-02 23:23:19.901 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x26a63f18] REGISTERED
+2016-10-02 23:23:19.903 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x26a63f18] BIND: 0.0.0.0/0.0.0.0:8008
+2016-10-02 23:23:19.907 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x26a63f18, /0:0:0:0:0:0:0:0:8008] ACTIVE
+2016-10-02 23:23:26.159 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x26a63f18, /0:0:0:0:0:0:0:0:8008] RECEIVED: [id: 0x53edfe8a, /127.0.0.1:63021 => /127.0.0.1:8008]
+2016-10-02 23:25:02.333 [main] INFO  decoder.EchoServer -
+				启动
+2016-10-02 23:25:03.045 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x9aaf079f] REGISTERED
+2016-10-02 23:25:03.047 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x9aaf079f] BIND: 0.0.0.0/0.0.0.0:8008
+2016-10-02 23:25:03.051 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x9aaf079f, /0:0:0:0:0:0:0:0:8008] ACTIVE
+2016-10-02 23:25:09.246 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0x9aaf079f, /0:0:0:0:0:0:0:0:8008] RECEIVED: [id: 0x898453ef, /127.0.0.1:63105 => /127.0.0.1:8008]
+2016-10-02 23:35:24.467 [main] INFO  decoder.EchoServer -
+				启动
+2016-10-02 23:35:25.178 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xa4c509c9] REGISTERED
+2016-10-02 23:35:25.180 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xa4c509c9] BIND: 0.0.0.0/0.0.0.0:8008
+2016-10-02 23:35:25.183 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xa4c509c9, /0:0:0:0:0:0:0:0:8008] ACTIVE
+2016-10-02 23:38:13.892 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xa4c509c9, /0:0:0:0:0:0:0:0:8008] RECEIVED: [id: 0xd582eb6c, /0:0:0:0:0:0:0:1:63524 => /0:0:0:0:0:0:0:1:8008]
+2016-10-02 23:40:12.973 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xa4c509c9, /0:0:0:0:0:0:0:0:8008] RECEIVED: [id: 0xcf13e990, /0:0:0:0:0:0:0:1:63569 => /0:0:0:0:0:0:0:1:8008]
+2016-10-02 23:41:59.417 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xa4c509c9, /0:0:0:0:0:0:0:0:8008] RECEIVED: [id: 0x56cb8d83, /0:0:0:0:0:0:0:1:63685 => /0:0:0:0:0:0:0:1:8008]
+2016-10-02 23:45:37.434 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xa4c509c9, /0:0:0:0:0:0:0:0:8008] RECEIVED: [id: 0xbb3e97ec, /0:0:0:0:0:0:0:1:63918 => /0:0:0:0:0:0:0:1:8008]

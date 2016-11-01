@@ -1,0 +1,8 @@
+2016-10-03 02:52:07.410 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xa5a3a991] REGISTERED
+2016-10-03 02:52:07.414 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xa5a3a991] BIND: 0.0.0.0/0.0.0.0:8008
+2016-10-03 02:52:07.419 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xa5a3a991, /0:0:0:0:0:0:0:0:8008] ACTIVE
+2016-10-03 02:52:16.470 [nioEventLoopGroup-2-1] INFO  io.netty.handler.logging.LoggingHandler -
+				[id: 0xa5a3a991, /0:0:0:0:0:0:0:0:8008] RECEIVED: [id: 0xd145072b, /127.0.0.1:52071 => /127.0.0.1:8008]
